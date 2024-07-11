@@ -2,7 +2,7 @@
 
 ## Description
 
-This script is used on macOS to create flame graphs from stackshots. It uses the `sample` command to capture stackshots and flopps them into a format that can be used by the flame graph script.
+This script is used on macOS to create flame graphs from stackshots. It uses the `sample` command to capture stackshots and folds them into a format that can be used by the flame graph script.
 
 ## Usage
 
